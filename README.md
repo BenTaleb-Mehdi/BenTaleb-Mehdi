@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Mehdi Bentaleb  
 
-💻 A passionate Web Developer who loves building clean and user-friendly websites and applications.  
-🌱 Currently learning **Java** and **Laravel**.  
+💻 A passionate Web Developer focused on building powerful and user-friendly websites.  
+🌱 Currently improving my skills in **PHP**, **JavaScript**, and the **Laravel framework**.  
 🚀 Working on projects like: School Dashboard + a small SaaS.  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mehdi-bentaleb-25814a355/)  
 
@@ -9,7 +9,7 @@
 
 ## 🛠️ Skills & Technologies
 - **Front-End**: HTML | CSS | JavaScript  
-- **Back-End**: PHP | MySQL  
+- **Back-End**: PHP | MySQL | Laravel  
 - **Tools**: Git | GitHub  
 
 ---
@@ -21,4 +21,4 @@
 
 ---
 
-✨ *"For me, programming is not just about writing code, it's about creating solutions and bringing ideas to life."*  
+✨ *"Programming for me is about solving real problems and turning ideas into digital solutions."*  
