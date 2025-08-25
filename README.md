@@ -2,7 +2,7 @@
 
 💻 A passionate Web Developer focused on building powerful and user-friendly websites.  
 🌱 Currently improving my skills in **PHP**, **JavaScript**, and the **Laravel framework**.  
-🚀 Working on projects like: School Dashboard + a small SaaS.  
+🚀 Working on projects like: Managmment dashboard and My portfolio Pro . 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mehdi-bentaleb-25814a355/)  
 
 ---
